@@ -28,3 +28,6 @@
 - **Email**: felixla89@gmail.com
 - **LinkedIn**: (https://www.linkedin.com/in/felix-la/)
 - **Languages**: 🇸🇪 Swedish (Fluent) | 🇬🇧 English (Fluent) | 🇻🇳 Vietnamese (Basic)
+
+## 🔥 Projects
+- Will be added soon
