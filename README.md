@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Felix La
-**MSc Data Science & AI Student**
+**MSc Data Science & AI Student | BSc Computer Science**
 
 ## 🚀 About Me
 - 🔭 I'm currently working on: NLP Projects (Generating texts from prompts)
