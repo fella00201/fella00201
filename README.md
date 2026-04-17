@@ -30,4 +30,4 @@
 - **Languages**: 🇸🇪 Swedish (Fluent) | 🇬🇧 English (Fluent) | 🇻🇳 Vietnamese (Basic)
 
 ## 🔥 Projects
-- Will be added soon
+- **[DIT247-NLP-Team-21](https://github.com/AhmedYasser-gu/DIT247-NLP-Team-21)** – Collaborative NLP project focused on building and fine-tuning transformer-based language models for text generation tasks. Utilized Hugging Face libraries and PyTorch to implement and evaluate state-of-the-art architectures. Demonstrates hands-on experience with deep learning workflows, model experimentation, and version-controlled team development in a research-oriented setting.
