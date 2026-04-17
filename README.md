@@ -2,7 +2,7 @@
 **MSc Data Science & AI Student | BSc Computer Science**
 
 ## 🚀 About Me
-- 🔭 I'm currently working on: NLP Projects (Generating texts from prompts)
+- 🔭 I'm currently working on: Multi-task learning ML models (parameter efficiency)
 - 🌱 I'm learning more about: PyTorch (Neural network library)
 
 ## 🛠️ Tech Stack
